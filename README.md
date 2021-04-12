@@ -1,6 +1,6 @@
 ## Hi there 👋
-## I'm John Kwak
-## I'm a Full Stack Software Engineer
+<h2> I'm John Kwak  <br>
+I'm a Full Stack Software Engineer </h2>
 
 
 <!--
