@@ -22,7 +22,15 @@
  </p>
  <br>
  
+ <h2>
+  Let's Connect!
+ <h2>
+![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+ 
 ![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnkwak08&show_icons=true)
+
+
+
 
  
 
