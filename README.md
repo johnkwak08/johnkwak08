@@ -12,18 +12,18 @@
 <p>
   <img src="https://icongr.am/devicon/html5-original-wordmark.svg?size=128&color=currentColor" width="50" height="50"/>
   <img src="https://icongr.am/devicon/css3-original-wordmark.svg?size=128&color=currentColor" width="50" height="50"/>
-  <img src="https://icongr.am/devicon/docker-original-wordmark.svg?size=128&color=currentColor" width="50" height="50"/>
   <img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" width="50" height="50"/>
   <img src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor" width="50" height="50"/>
-  <img src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=128&color=currentColor" width="50" height="50"/>
-  <img src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor" width="50" height="50"/>
-  <img src="https://icongr.am/devicon/npm-original-wordmark.svg?size=128&color=currentColor" width="50" height="50"/>
-  <img src="https://icongr.am/devicon/postgresql-original-wordmark.svg?size=128&color=currentColor" width="50" height="50"/>
   <img src="https://icongr.am/devicon/react-original-wordmark.svg?size=128&color=currentColor" width="50" height="50"/>
+  <img src="https://icongr.am/devicon/docker-original-wordmark.svg?size=128&color=currentColor" width="50" height="50"/>
+  <img src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor" width="50" height="50"/>
+  <img src="https://icongr.am/devicon/postgresql-original-wordmark.svg?size=128&color=currentColor" width="50" height="50"/>
+  <img src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=128&color=currentColor" width="50" height="50"/>
  </p>
 
 ![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnkwak08&show_icons=true)
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api)](https://github.com/piyushsuthar/github-readme-quotes)
+
+ 
 
 
 
