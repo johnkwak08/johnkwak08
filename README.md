@@ -13,8 +13,8 @@
   <img src="https://icongr.am/devicon/html5-original-wordmark.svg?size=128&color=currentColor" width="50" height="50"/>
   <img src="https://icongr.am/devicon/css3-original-wordmark.svg?size=128&color=currentColor" width="50" height="50"/>
   <img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" width="50" height="50"/>
-  <img src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor" width="50" height="50"/>
   <img src="https://icongr.am/devicon/react-original-wordmark.svg?size=128&color=currentColor" width="50" height="50"/>
+  <img src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor" width="50" height="50"/>
   <img src="https://icongr.am/devicon/docker-original-wordmark.svg?size=128&color=currentColor" width="50" height="50"/>
   <img src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor" width="50" height="50"/>
   <img src="https://icongr.am/devicon/postgresql-original-wordmark.svg?size=128&color=currentColor" width="50" height="50"/>
@@ -25,6 +25,7 @@
  <h2>
   Let's Connect!
  <h2>
+<img src="https://img.shields.io/badge/-johnkwak08-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/johnkwak08/)%5D(https://www.linkedin.com/in/johnkwak08" />
 
  
 ![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnkwak08&show_icons=true)
