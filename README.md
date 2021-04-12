@@ -1,6 +1,11 @@
-## Hi there 👋
-<h2> I'm John Kwak  <br>
-I'm a Full Stack Software Engineer </h2>
+<h2>
+Hi there 👋 <br> <br>
+I'm John Kwak :v: <br>
+I'm a Full Stack Software Engineer 👨‍💻
+</h2>
+<br>
+<br>
+<img src='https://i.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.webp'>
 
 
 <!--
