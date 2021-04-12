@@ -1,4 +1,7 @@
-### Hi there 👋
+## Hi there 👋
+## I'm John Kwak
+## I'm a Full Stack Software Engineer
+
 
 <!--
 **johnkwak08/johnkwak08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
