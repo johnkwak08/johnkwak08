@@ -28,8 +28,8 @@
  <a href="https://www.linkedin.com/in/johnkwak08" > 
   <img src="https://img.shields.io/badge/-johnkwak08-blue?style=flat-square&logo=Linkedin&logoColor=white" />
  </a>
- 
-![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnkwak08&show_icons=true)
+
+ ![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnkwak08&show_icons=true)
 
 
 
