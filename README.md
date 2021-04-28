@@ -29,7 +29,6 @@
   <img src="https://img.shields.io/badge/-John Kwak-blue?style=flat-square&logo=Linkedin&logoColor=white" />
  </a>
 
- ![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnkwak08&show_icons=true)
 
 
 
