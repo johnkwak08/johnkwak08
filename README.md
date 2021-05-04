@@ -25,8 +25,7 @@
  <h2>
   :speech_balloon: Let's Connect!
  <h2>
-
-
+   
  <a href="https://www.linkedin.com/in/johnkwak08" > 
   <img src="https://img.shields.io/badge/-John Kwak-blue?style=flat-square&logo=Linkedin&logoColor=white" />
  </a>
